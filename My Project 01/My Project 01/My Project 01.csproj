@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0B1BBE0F-742F-4988-8653-19C4A7613D0E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>My_Project_01</RootNamespace>
+    <AssemblyName>My Project 01</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="03mainscreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="03mainscreen.Designer.cs">
+      <DependentUpon>03mainscreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07addmenuitems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="07addmenuitems.Designer.cs">
+      <DependentUpon>07addmenuitems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="10addcustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="10addcustomer.designer.cs">
+      <DependentUpon>10addcustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="04createuser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="04createuser.designer.cs">
+      <DependentUpon>04createuser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="01welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="01welcome.designer.cs">
+      <DependentUpon>01welcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="02login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="02login.designer.cs">
+      <DependentUpon>02login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="05useroutlook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="05useroutlook.designer.cs">
+      <DependentUpon>05useroutlook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="06edituser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="06edituser.designer.cs">
+      <DependentUpon>06edituser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="11searchcustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="11searchcustomer.designer.cs">
+      <DependentUpon>11searchcustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="12editcustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="12editcustomer.designer.cs">
+      <DependentUpon>12editcustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="08viewfullmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="08viewfullmenu.Designer.cs">
+      <DependentUpon>08viewfullmenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="09menuedit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="09menuedit.Designer.cs">
+      <DependentUpon>09menuedit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="13billing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="13billing.designer.cs">
+      <DependentUpon>13billing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="03mainscreen.resx">
+      <DependentUpon>03mainscreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07addmenuitems.resx">
+      <DependentUpon>07addmenuitems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="10addcustomer.resx">
+      <DependentUpon>10addcustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="04createuser.resx">
+      <DependentUpon>04createuser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="01welcome.resx">
+      <DependentUpon>01welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="02login.resx">
+      <DependentUpon>02login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="05useroutlook.resx">
+      <DependentUpon>05useroutlook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="06edituser.resx">
+      <DependentUpon>06edituser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="11searchcustomer.resx">
+      <DependentUpon>11searchcustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="12editcustomer.resx">
+      <DependentUpon>12editcustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="08viewfullmenu.resx">
+      <DependentUpon>08viewfullmenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="09menuedit.resx">
+      <DependentUpon>09menuedit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="13billing.resx">
+      <DependentUpon>13billing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Menu1.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Menu1_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Menu1.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\pexels-photo-1267299.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

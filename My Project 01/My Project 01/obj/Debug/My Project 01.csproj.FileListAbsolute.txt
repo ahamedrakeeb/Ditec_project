@@ -1,0 +1,66 @@
+c:\users\ahamedrakeeb\documents\visual studio 2013\Projects\My Project 01\My Project 01\bin\Debug\My Project 01.exe.config
+c:\users\ahamedrakeeb\documents\visual studio 2013\Projects\My Project 01\My Project 01\bin\Debug\My Project 01.exe
+c:\users\ahamedrakeeb\documents\visual studio 2013\Projects\My Project 01\My Project 01\bin\Debug\My Project 01.pdb
+c:\users\ahamedrakeeb\documents\visual studio 2013\Projects\My Project 01\My Project 01\obj\Debug\My Project 01.csprojResolveAssemblyReference.cache
+c:\users\ahamedrakeeb\documents\visual studio 2013\Projects\My Project 01\My Project 01\obj\Debug\My_Project_01.Properties.Resources.resources
+c:\users\ahamedrakeeb\documents\visual studio 2013\Projects\My Project 01\My Project 01\obj\Debug\My Project 01.csproj.GenerateResource.Cache
+c:\users\ahamedrakeeb\documents\visual studio 2013\Projects\My Project 01\My Project 01\obj\Debug\My Project 01.exe
+c:\users\ahamedrakeeb\documents\visual studio 2013\Projects\My Project 01\My Project 01\obj\Debug\My Project 01.pdb
+C:\Users\ahamedrakeeb\Documents\Visual Studio 2013\Projects\My Project 01\My Project 01\bin\Debug\Menu1.mdf
+C:\Users\ahamedrakeeb\Documents\Visual Studio 2013\Projects\My Project 01\My Project 01\bin\Debug\Menu1_log.ldf
+C:\Users\ahamedrakeeb\Documents\Visual Studio 2013\Projects\My Project 01\My Project 01\obj\Debug\My_Project_01.frmproject1_parent.resources
+C:\Users\ahamedrakeeb\Documents\Visual Studio 2013\Projects\My Project 01\My Project 01\obj\Debug\My_Project_01.frmdisplayall.resources
+C:\Users\ahamedrakeeb\Documents\Visual Studio 2013\Projects\My Project 01\My Project 01\obj\Debug\My_Project_01.frmadd.resources
+C:\Users\ahamedrakeeb\Documents\Visual Studio 2013\Projects\My Project 01\My Project 01\obj\Debug\My_Project_01.frmedit.resources
+C:\Users\ahamedrakeeb\Documents\Visual Studio 2013\Projects\My Project 01\My Project 01\obj\Debug\My_Project_01.frmmenusearch.resources
+C:\Users\ahamedrakeeb\Documents\Visual Studio 2013\Projects\My Project 01\My Project 01\obj\Debug\My_Project_01.Form6.resources
+C:\Users\ahamedrakeeb\Documents\Visual Studio 2013\Projects\My Project 01\My Project 01\obj\Debug\My_Project_01.Form7.resources
+C:\Users\ahamedrakeeb\Documents\Visual Studio 2013\Projects\My Project 01\My Project 01\obj\Debug\My_Project_01.Form8.resources
+C:\Users\ahamedrakeeb\Documents\Visual Studio 2013\Projects\My Project 01\My Project 01\obj\Debug\My_Project_01.Form9.resources
+E:\New folder\My Project 01\My Project 01\bin\Debug\My Project 01.exe.config
+E:\New folder\My Project 01\My Project 01\obj\Debug\My Project 01.exe
+E:\New folder\My Project 01\My Project 01\obj\Debug\My Project 01.pdb
+E:\New folder\My Project 01\My Project 01\bin\Debug\Menu1.mdf
+E:\New folder\My Project 01\My Project 01\bin\Debug\Menu1_log.ldf
+E:\New folder\My Project 01\My Project 01\bin\Debug\My Project 01.exe
+E:\New folder\My Project 01\My Project 01\bin\Debug\My Project 01.pdb
+E:\New folder\My Project 01\My Project 01\obj\Debug\My Project 01.csprojResolveAssemblyReference.cache
+E:\New folder\My Project 01\My Project 01\obj\Debug\My_Project_01.frmproject1_parent.resources
+E:\New folder\My Project 01\My Project 01\obj\Debug\My_Project_01.frmadd.resources
+E:\New folder\My Project 01\My Project 01\obj\Debug\My_Project_01.frmmenusearch.resources
+E:\New folder\My Project 01\My Project 01\obj\Debug\My_Project_01.frmedit.resources
+E:\New folder\My Project 01\My Project 01\obj\Debug\My_Project_01.Properties.Resources.resources
+E:\New folder\My Project 01\My Project 01\obj\Debug\My Project 01.csproj.GenerateResource.Cache
+E:\New folder\My Project 01\My Project 01\obj\Debug\My_Project_01.sales.resources
+E:\New folder\My Project 01\My Project 01\obj\Debug\My_Project_01.Frmadcus.resources
+E:\New folder\My Project 01\My Project 01\obj\Debug\My_Project_01.frmcusoutlk.resources
+E:\New folder\My Project 01\My Project 01\obj\Debug\My_Project_01.frmcusedit.resources
+E:\New folder\My Project 01\My Project 01\obj\Debug\My_Project_01.frmuser1.resources
+E:\New folder\My Project 01\My Project 01\obj\Debug\My_Project_01.frmuser2.resources
+E:\New folder\My Project 01\My Project 01\obj\Debug\My_Project_01.frmuser3.resources
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\bin\Debug\My Project 01.exe.config
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\obj\Debug\My Project 01.exe
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\obj\Debug\My Project 01.pdb
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\obj\Debug\My Project 01.csprojResolveAssemblyReference.cache
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\obj\Debug\My_Project_01.frmproject1_parent.resources
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\obj\Debug\My_Project_01.frmadd.resources
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\obj\Debug\My_Project_01.Frmadcus.resources
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\obj\Debug\My_Project_01.frmuser1.resources
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\obj\Debug\My_Project_01.frmuser2.resources
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\obj\Debug\My_Project_01.frmuser3.resources
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\obj\Debug\My_Project_01.frmcusoutlk.resources
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\obj\Debug\My_Project_01.frmcusedit.resources
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\obj\Debug\My_Project_01.frmmenusearch.resources
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\obj\Debug\My_Project_01.frmedit.resources
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\obj\Debug\My_Project_01.Properties.Resources.resources
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\obj\Debug\My Project 01.csproj.GenerateResource.Cache
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\bin\Debug\Menu1.mdf
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\bin\Debug\Menu1_log.ldf
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\bin\Debug\My Project 01.exe
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\bin\Debug\My Project 01.pdb
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\obj\Debug\My_Project_01.frmwlcm.resources
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\obj\Debug\My_Project_01.frmlogin.resources
+C:\Users\ahamedrakeeb\Desktop\My Project 01\My Project 01\obj\Debug\My_Project_01.frmbilling.resources
+C:\Users\ahamedrakeeb\Documents\Esoft Ditec Project  01 C#\My Project 01\My Project 01\bin\Debug\My Project 01.exe.config
+C:\Users\ahamedrakeeb\Documents\Esoft Ditec Project  01 C#\My Project 01\My Project 01\obj\Debug\My Project 01.exe
+C:\Users\ahamedrakeeb\Documents\Esoft Ditec Project  01 C#\My Project 01\My Project 01\obj\Debug\My Project 01.pdb
